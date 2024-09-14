@@ -1,0 +1,4 @@
+ npm init react-app MyApp
+ npm start
+ npm run build
+
